@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Brazil's Trade with US and China</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://d3js.org/topojson.v3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.2/d3.min.js"></script>
+  <script src="https://unpkg.com/three"></script>
+  <script src="https://unpkg.com/globe.gl"></script>
+  <script src="https://unpkg.com/topojson"></script>
+  <script defer src="script.js"></script>
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+</head>
+<img src="/static/image.png">
+<body>
+  <header>
+    <h1>Brazil in Trade with the World’s Powerhouses</h1>
+    <h2>As top trade partners, China and the U.S. drive the nation’s export and import flows</h2>
+    <h3>By <a href="https://github.com/giovannacbs">Giovanna Serafim</a></h3>
+  </header>
+
+  <section>
+    <p>With an economy increasingly integrated into global trade, Brazil’s commercial balance is heavily influenced by two economic giants: China and the United States. <br> <br> Both countries stand as Brazil’s largest trading partners, moving billions in exports and imports that drive key sectors of the Brazilian economy. <br> <br> China, as the top destination for commodity exports, and the United States, with a strong presence in the market for manufactured goods, form a strategic commercial relationship that enhances Brazil's global significance. This positioning places Brazil within a web of economic interdependencies, underscoring its role in the broader global trade network.</p>
+  </section>
+
+  <div class="chart-container">
+    <canvas id="myChartExports"></canvas>
+    <canvas id="myChartImports"></canvas>    
+    <p class="chart-note">Source: MDIC</p>
+  </div>
+
+  <section>
+    <p><br> Brazil’s trade dynamics with China and the United States highlight its strategic role in the global economy. As the largest trading partners of Brazil, both countries significantly impact Brazil’s export and import flows, shaping its economic landscape through diverse sectors, from commodities to industrial goods.</p>
+  </section>
+
+  <div id="bubbleChartContainer" class="chart-container">
+    <p class="chart-note">Source: MDIC</p>
+  </div>
+
+  <section>
+    <p><br> China’s demand for raw materials and agricultural products has positioned it as Brazil’s primary export destination, driving growth in areas like soy, iron ore, and oil. <br> <br> Meanwhile, the United States maintains a strong trade relationship with Brazil, particularly in high-value manufactured goods and services.</p>
+  </section>
+
+  <div class="chart-container">
+    <div id="map"></div>
+    <p class="chart-note">Source: MDIC</p>
+  </div>
+
+  <section>
+    <p> This balance of relationships allows Brazil to navigate economic shifts and capitalize on global market opportunities, strengthening its role as a key player in international trade. The economic ties with these two superpowers not only fuel Brazil’s growth but also place it in a critical position within a rapidly evolving global trade environment.</p>
+  </section>
+  
+  <div class="chart-container">
+    <h2 class="map-title">Routes of Brazil's Exports</h2>
+    <svg id="routeMap"></svg>
+  </div>
+
+</body>
+</html>
