@@ -1,0 +1,1769 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -44.3181,
+                        -23.0067
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Angra dos Reis",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 5445.485000000001
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.7111,
+                        -25.4286
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Antonina",
+                "destino": "CHINA",
+                "volume": 23901.07
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -38.4833,
+                        -12.7833
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Aratu",
+                "destino": "CHINA",
+                "volume": 2439.811
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -38.4833,
+                        -12.7833
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Aratu",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 132545.079
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -37.135,
+                        -4.9533
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Areia Branca",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 211125.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.6542,
+                        -26.8989
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Barra do Rio Terminal Portu\u00e1rio",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 148.61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -34.8339,
+                        -6.9811
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Cabedelo",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 71043.56599999999
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.5044,
+                        -25.5146
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Cattalini Terminais Mar\u00edtimos",
+                "destino": "CHINA",
+                "volume": 32700.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.5044,
+                        -25.5146
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Cattalini Terminais Mar\u00edtimos",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 94630.022
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.3039,
+                        -23.9511
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "DP World Santos",
+                "destino": "CHINA",
+                "volume": 1662112.21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.3039,
+                        -23.9511
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "DP World Santos",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 183504.97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -39.0393,
+                        -14.7935
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Ilh\u00e9us",
+                "destino": "CHINA",
+                "volume": 79977.23300000001
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.6659,
+                        -28.2286
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Imbituba",
+                "destino": "CHINA",
+                "volume": 304625.96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.6659,
+                        -28.2286
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Imbituba",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 204582.773
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -43.7753,
+                        -22.8708
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Itagua\u00ed",
+                "destino": "CHINA",
+                "volume": 38879618.168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -43.7753,
+                        -22.8708
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Itagua\u00ed",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 304397.441
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -44.3658,
+                        -2.5633
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Itaqui",
+                "destino": "CHINA",
+                "volume": 9320114.467
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -44.3658,
+                        -2.5633
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Itaqui",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 895955.304
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -35.735,
+                        -9.6658
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Macei\u00f3",
+                "destino": "CHINA",
+                "volume": 60765.282
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -35.735,
+                        -9.6658
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Macei\u00f3",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 68700.343
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.5222,
+                        -25.5161
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Paranagu\u00e1",
+                "destino": "CHINA",
+                "volume": 7847934.541
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.5222,
+                        -25.5161
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Paranagu\u00e1",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 454335.746
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -51.23,
+                        -30.0331
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Porto Alegre",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 27616.613
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.6112,
+                        -26.1155
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Porto Itapo\u00e1 Terminais Portu\u00e1rios",
+                "destino": "CHINA",
+                "volume": 377862.605
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.6112,
+                        -26.1155
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Porto Itapo\u00e1 Terminais Portu\u00e1rios",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 552714.232
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.7686,
+                        -1.5656
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Porto Murucupi",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 147929.66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -43.801,
+                        -22.9646
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Porto Sudeste do Brasil S/A",
+                "destino": "CHINA",
+                "volume": 16641618.197
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -43.801,
+                        -22.9646
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Porto Sudeste do Brasil S/A",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 61000.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -41.0516,
+                        -21.8347
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Porto do A\u00e7u - Terminal TMULT e TCAR",
+                "destino": "CHINA",
+                "volume": 55002.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -41.0516,
+                        -21.8347
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Porto do A\u00e7u - Terminal de Min\u00e9rio",
+                "destino": "CHINA",
+                "volume": 7137976.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -40.0517,
+                        -19.7556
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Portocel - Terminal Especializado de Barra do Riacho",
+                "destino": "CHINA",
+                "volume": 1870266.207
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -40.0517,
+                        -19.7556
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Portocel - Terminal Especializado de Barra do Riacho",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 1066983.218
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.6542,
+                        -26.8989
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Portonave - Terminais Portu\u00e1rios de Navegantes",
+                "destino": "CHINA",
+                "volume": 784102.6630000001
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.6542,
+                        -26.8989
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Portonave - Terminais Portu\u00e1rios de Navegantes",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 276221.141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -52.0986,
+                        -32.035
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Rio Grande",
+                "destino": "CHINA",
+                "volume": 4207821.261
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -52.0986,
+                        -32.035
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Rio Grande",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 706196.859
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -43.1729,
+                        -22.9068
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Rio de Janeiro",
+                "destino": "CHINA",
+                "volume": 44589.088
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -43.1729,
+                        -22.9068
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Rio de Janeiro",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 1085720.099
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -38.5124,
+                        -12.9714
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Salvador",
+                "destino": "CHINA",
+                "volume": 333628.758
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -38.5124,
+                        -12.9714
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Salvador",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 275565.37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -51.1815,
+                        -0.0584
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Santana",
+                "destino": "CHINA",
+                "volume": 103991.65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -51.1815,
+                        -0.0584
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Santana",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 29879.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -54.6996,
+                        -2.4383
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Santar\u00e9m",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 35755.187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.328,
+                        -23.9618
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Santos",
+                "destino": "CHINA",
+                "volume": 24647066.732
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.328,
+                        -23.9618
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Santos",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 3261323.41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -34.96,
+                        -8.3983
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Suape",
+                "destino": "CHINA",
+                "volume": 50853.82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -34.96,
+                        -8.3983
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Suape",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 136217.693
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.9728,
+                        -21.1355
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Sucoc\u00edtrico Cutrale",
+                "destino": "CHINA",
+                "volume": 1811148.02
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.9728,
+                        -21.1355
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Sucoc\u00edtrico Cutrale",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 429744.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -59.9833,
+                        -3.1459
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Super Terminais Com\u00e9rcio e Ind\u00fastria",
+                "destino": "CHINA",
+                "volume": 29379.115
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -59.9833,
+                        -3.1459
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Super Terminais Com\u00e9rcio e Ind\u00fastria",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 14665.24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -43.775,
+                        -22.85
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Teporti",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 2343.569
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -51.1836,
+                        -29.9278
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terbian - Terminal Bianchini",
+                "destino": "CHINA",
+                "volume": 2206861.575
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -43.2192,
+                        -22.8133
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Aquavi\u00e1rio da Ilha D'\u00c1gua",
+                "destino": "CHINA",
+                "volume": 547792.15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -43.2192,
+                        -22.8133
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Aquavi\u00e1rio da Ilha D'\u00c1gua",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 745948.61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -44.3181,
+                        -23.0067
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Aquavi\u00e1rio de Angra dos Reis",
+                "destino": "CHINA",
+                "volume": 9560121.69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -44.3181,
+                        -23.0067
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Aquavi\u00e1rio de Angra dos Reis",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 1278545.088
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -37.0717,
+                        -10.9162
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Aquavi\u00e1rio de Aracaju",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 78905.15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -36.3225,
+                        -5.1069
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Aquavi\u00e1rio de Guamar\u00e9",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 231610.049
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -45.4017,
+                        -23.8017
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Aquavi\u00e1rio de S\u00e3o Sebasti\u00e3o (Almirante Barroso)",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 269410.046
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -59.9833,
+                        -3.1459
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Graneleiro Hermasa",
+                "destino": "CHINA",
+                "volume": 339620.084
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -59.9833,
+                        -3.1459
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Graneleiro Hermasa",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 69251.69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.3122,
+                        -23.9456
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Integrador Portu\u00e1rio Luiz Antonio Mesquita - TIPLAM",
+                "destino": "CHINA",
+                "volume": 3453937.775
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -40.2559,
+                        -20.3155
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Mar\u00edtimo Alfandegado Privativo de Uso Misto de Praia Mole",
+                "destino": "CHINA",
+                "volume": 213714.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -40.2559,
+                        -20.3155
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Mar\u00edtimo Alfandegado Privativo de Uso Misto de Praia Mole",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 2050676.255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -51.1836,
+                        -29.9278
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Mar\u00edtimo Luiz Fogliatto - Termasa",
+                "destino": "CHINA",
+                "volume": 71041.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -40.95,
+                        -20.85
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Mar\u00edtimo Ponta Ubu",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 1198651.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.4253,
+                        -23.895
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Mar\u00edtimo Privativo de Cubat\u00e3o - TMPC",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 58679.727
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.7686,
+                        -1.5656
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Ponta da Montanha",
+                "destino": "CHINA",
+                "volume": 1044467.08
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -38.4833,
+                        -12.7833
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Portu\u00e1rio Cotegipe",
+                "destino": "CHINA",
+                "volume": 1995405.756
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.62,
+                        -1.5
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Portu\u00e1rio Graneleiro de Barcarena",
+                "destino": "CHINA",
+                "volume": 1484077.706
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -59.95,
+                        -3.15
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Portu\u00e1rio Novo Remanso",
+                "destino": "CHINA",
+                "volume": 324650.258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -38.795,
+                        -3.54
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Portu\u00e1rio do Pec\u00e9m",
+                "destino": "CHINA",
+                "volume": 485064.804
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -38.795,
+                        -3.54
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Portu\u00e1rio do Pec\u00e9m",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 1479042.445
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -43.685,
+                        -22.952
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal TKCSA",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 2375311.371
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -56.3836,
+                        -1.4449
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Trombetas",
+                "destino": "CHINA",
+                "volume": 878540.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.7691,
+                        -1.5723
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal Vila do Conde",
+                "destino": "CHINA",
+                "volume": 2596014.023
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -43.9,
+                        -23.05
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal da Ilha Gua\u00edba - TIG",
+                "destino": "CHINA",
+                "volume": 24979456.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -41.0516,
+                        -21.8347
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal de Petr\u00f3leo TPET/TOIL - A\u00e7u",
+                "destino": "CHINA",
+                "volume": 14448946.254
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -41.0516,
+                        -21.8347
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal de Petr\u00f3leo TPET/TOIL - A\u00e7u",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 2403926.612
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -40.2559,
+                        -20.3155
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal de Tubar\u00e3o",
+                "destino": "CHINA",
+                "volume": 31800344.653
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -40.2559,
+                        -20.3155
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Terminal de Tubar\u00e3o",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 709899.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.7691,
+                        -1.5723
+                    ],
+                    [
+                        104.1954,
+                        35.8617
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Vila do Conde",
+                "destino": "CHINA",
+                "volume": 138563.26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.7691,
+                        -1.5723
+                    ],
+                    [
+                        -98.5795,
+                        39.8283
+                    ]
+                ]
+            },
+            "properties": {
+                "origem": "Vila do Conde",
+                "destino": "ESTADOS UNIDOS",
+                "volume": 806762.298
+            }
+        }
+    ]
+}
